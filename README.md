@@ -52,7 +52,8 @@ print(`Deserialized:`, deserialized)
 
 # EnzzyFrenzzy
 
-This is the Sera module created and published by Loleris. It has all the neccessities for both the client, and server.
+A package port of Loleris's Sera module, used by both the server & client. The purpose of this is to be used as a package on Wally.
+You can find the package here: https://wally.run/package/enzzyfrenzzy/sera?version=0.0.1 OR search 'enzzyfrenzzy'
 
 Here are the original websites:
 Devforum - https://devforum.roblox.com/t/sera-low-level-schematized-serialization-library/3304206
