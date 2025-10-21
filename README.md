@@ -49,3 +49,14 @@ print(`Serialized buffer size: {buffer.len(serialized :: buffer)} bytes`)
 print(`Deserialized:`, deserialized)
 
 ```
+
+# EnzzyFrenzzy
+
+This is the Sera module created and published by Loleris. It has all the neccessities for both the client, and server.
+
+Here are the original websites:
+Devforum - https://devforum.roblox.com/t/sera-low-level-schematized-serialization-library/3304206
+Github - https://github.com/MadStudioRoblox/Sera/blob/main/Sera.luau
+Example (Longer) - https://github.com/MadStudioRoblox/Sera/blob/main/Test.luau
+Buffers - https://create.roblox.com/docs/reference/engine/libraries/buffer
+API - CHECK THE Sera.luau FILE FOR THE API, AND HOW IT WORKS.
